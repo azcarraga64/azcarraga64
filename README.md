@@ -21,7 +21,7 @@ Finalicé el **bootcamp de Data Analyst en TripleTen (2025)**, donde desarrollé
 | Python (Pandas, NumPy) | Intermedio |
 | SQL | Intermedio |
 | Power BI (DAX, Modelado) | Intermedio |
-| Excel | Intermedio |
+| Microsoft Excel | Intermedio |
 | Visualización (Matplotlib, Seaborn) | Intermedio |
 | Estadística aplicada | Intermedio |
 
